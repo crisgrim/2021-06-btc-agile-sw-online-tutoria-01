@@ -32,3 +32,12 @@ Running tests       npx jest
 Compile struct      npx tsc --build [tsconfig.json] -> define files [ ... ]
 
 ```
+
+Cheatsheet with commands:
+
+```
+npx tsc --build tsconfig.json
+npx ts-node src/main.ts
+npx jest
+git flow init
+```
