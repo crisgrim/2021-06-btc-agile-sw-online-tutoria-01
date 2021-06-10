@@ -14,7 +14,7 @@ function mod(input: number, operator: number): boolean {
 }
 
 /**
- * Funtion of module of 3 and 5
+ * Function of module of 3 and 5
  * @param input 
  * @returns Boolean
  */
