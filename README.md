@@ -1,10 +1,8 @@
-# 2021-02-btc-agile-sw-online-tutoria-01
+# 2021-06-btc-agile-sw-online-tutoria-01
 
 <p align="center">
     <img src="https://github.com/GeeksHubsAcademy/2020-geekshubs-media/blob/master/image/githubagilesoftware.jpg" >	
 </p>
-
-[![Build Status](https://travis-ci.com/GeeksHubsAcademy/2021-02-btc-agile-sw-online-tutoria-01.svg?branch=master)](https://travis-ci.com/GeeksHubsAcademy/2021-02-btc-agile-sw-online-tutoria-01)
 
 Install
 ```
@@ -30,4 +28,7 @@ Compile file        tsc '{path}/foo.ts' (Compila/Genera fichero transpilado JS)
 Run file            npx node '{path}/foo.js' (Ejecuta fichero transpilado JS)
 Compile/Run (fly)   npx ts-node '{path}/foo.ts'
 Running tests       npx jest	
+
+Compile struct      npx tsc --build [tsconfig.json] -> define files [ ... ]
+
 ```
